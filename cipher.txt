@@ -1,0 +1,1 @@
+while craeting an array if we do not specify the type of elements in it,then from the values numpy guesses the type.IF we wish khoor we can also specify the type.
